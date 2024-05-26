@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+#heading{
+    text-align: center;
+    margin-top: 20px;
+    word-spacing: 10px;
+}
+
+#title{
+    text-align: center;
+}
+
+#lineTitle{
+    margin-top: 50px;
+}
+
+#skills{
+    margin: 40px;
+}
+
+#SkillsList{
+    margin: 20px;
+}
+
+#Education{
+    margin: 40px;
+}
+
+#Projects{
+    margin: 40px;
+}
+
+#projectsList{
+    margin: 20px;
+}
+
+#contacts{
+    margin: 40px;
+}
+
+#contactsList{
+    margin: 20px;
+}
+
+#About{
+    margin: 40px;
+}
+
+#aboutPara{
+    margin-top:20px ;
+    width:80%;
+}
+
+
+
+#div123{
+margin: 20px;
+/* border: 2px solid black; */
+width: 45%;
+}
+#div45{
+    margin: 40px;
+    /* border: 2px solid black; */
+    width: 45%;
+}
+
+#container{
+    display: flex;
+}
